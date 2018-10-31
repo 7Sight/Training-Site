@@ -1,1 +1,5 @@
-# training
+## 7SIGHT TRAINING SITE # #
+#                         #
+#     SEJA BEM VINDO      #
+#                         # 
+# # # # # # # # # # # # # #

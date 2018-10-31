@@ -1,5 +1,6 @@
-## 7SIGHT TRAINING SITE # #
-#                         #
-#     SEJA BEM VINDO      #
-#                         # 
-# # # # # # # # # # # # # #
+# 7SIGHT TRAINING SITE #
+
+# • GITHUB • #
+# • HTML/CSS • #
+# • RUBY • #
+# • JAVASCRIPT • #
